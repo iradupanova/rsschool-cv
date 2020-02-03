@@ -11,4 +11,11 @@ Email : iradupanova@gmail.com
 
 I want to get knowledge in new area such as IT. My goal is complete this course successful.
 
+### Skills :
+
+* HTML5;
+* CSS3;
+* Basics JS;
+* Git.
+
 
