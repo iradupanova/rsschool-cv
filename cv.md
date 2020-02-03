@@ -22,4 +22,8 @@ I want to get knowledge in new area such as IT. My goal is complete this course 
 
 2004-2009 Francisk Skorina Gomel State University faculty of law.
 
+### English :
+
+(A2) Pre-Intermediate
+
 
